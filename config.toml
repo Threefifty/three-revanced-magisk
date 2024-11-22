@@ -39,7 +39,8 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "module"
-dpi = "120-640dpi"
+version = "10.48.0-release.0"
+
 
 [YouTube]
 build-mode = "module"

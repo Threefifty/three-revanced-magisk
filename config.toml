@@ -7,23 +7,30 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Music]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
 [Reddit]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
 [Tiktok]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
 [Twitch]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [Twitter]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [YouTube]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
